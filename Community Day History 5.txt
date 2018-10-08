@@ -1,0 +1,90 @@
+<html>
+
+	<head>
+
+		<title>Pokemon GO Community Days</title>
+
+	</head>
+<br>
+<br>
+	<body style="background:url(https://wi-images.condecdn.net/image/B1NZW376pxM/crop/1620/f/space_11.jpg); background-size: 100% 100%;">
+	<h1><center><font color="white"><font size="+5">Pokemon GO! Community Day History!</center></h1>
+	<center><img src="https://storage.googleapis.com/pokemongolive/communityday/PKMN_Community-Day-logo2.png" height="400" width="500" title="Pokemon GO! Community Day Logo"></center>
+<hr>
+	<h1><center><font color="white"><font size="+3">Pokemon GO Community Days have been out since January of 2018! It will be celebrating its 10th Community Day this October!</h1></center>
+	<h1><center><font color="white"><font size="+3">Each Community Day lasts 3-hours, where the specefic Pokemon of the day will spawn in large amounts, with the chance of it being shiny!</h1></center>
+	<h1><center><font color="white"><font size="+3">Special Moves can also be learned in this time span, usually by evolving the Pokemon during the event</h1></center>
+	<h1><center><font color="white"><font size="+3">This page shows all of the past Community Days and what Pokemon were celebrated on each day!</h1></center>
+	<h1><center><font color="white"><font size="+3">An article of each Community Day is linked to each promotional image of its respective day if you want to learn more!</h1></center>
+<hr>
+
+<table width="90%" "border:2px white";>
+	<tr>
+		<th><font color="white"><font size="+3">Pikachu Community Day</th>
+		<th><font color="white"><font size="+3">Dratini Community Day</th>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>January 20th, 2018</center></td>
+		<td><font color="white"><font size="+3"><center>February 24th, 2018</center</td>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>Special Move: Surf</center></td>
+		<td><font color="white"><font size="+3"><center>Special Move: Draco Meteor</center</td>
+	</tr>
+	<tr> 
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/01/19/pikachu-surf-pokemon-gos-first-community-day-when-is-it-and-what-to-expect/#7eeb95d2373f"><img src="https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidthier%2Ffiles%2F2018%2F01%2FCapture-15.jpg" height="300" width="450" title="Pikachu Community Day"></a></center></td>
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/02/23/dratini-pokemon-go-community-day-2-when-is-it-and-what-to-expect/#1f8045391e4a"><img src="https://cdn.images.express.co.uk/img/dynamic/143/590x/Pokemon-Go-Community-Day-2-Dratini-908690.jpg" height="300" width="450" title="Dratini Community Day"></a></center</td>
+	</tr>
+
+	<tr>
+		<th><font color="white"><font size="+3">Bulbasaur Community Day</th>
+		<th><font color="white"><font size="+3">Mareep Community Day</th>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>March 25th, 2018</center></td>
+		<td><font color="white"><font size="+3"><center>February 24th, 2018</center</td>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>Special Move: Frenzy Plant</center></td>
+		<td><font color="white"><font size="+3"><center>Special Move: Dragon Pulse</center</td>
+	</tr>
+	<tr> 
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/03/23/pokemon-gos-bulbasaur-community-day-when-is-it-and-what-to-expect/#4eb3071212c8"><img src="https://www.futuregamereleases.com/wp-content/uploads/2018/03/pokemon-go-community-day-event-bulbasaur.jpg" height="300" width="450" title="Bulbasaur Community Day"></a></center></td>
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/04/14/pokemon-gos-mareepampharos-community-day-when-is-it-and-what-to-expect/#6166774b206d"><img src="https://pokemongohub.net/wp-content/uploads/2018/03/IMG_20180327_192456-e1522172001357.jpg" height="300" width="450" title="Mareep Community Day"></a></center</td>
+	</tr>
+		<th><font color="white"><font size="+3">Charamander Community Day</th>
+		<th><font color="white"><font size="+3">Larvitar Community Day</th>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>May 19th, 2018</center></td>
+		<td><font color="white"><font size="+3"><center>June 16th, 2018</center</td>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>Special Move: Blast Burn</center></td>
+		<td><font color="white"><font size="+3"><center>Special Move: Smack Down</center</td>
+	</tr>
+	<tr> 
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/05/18/pokemon-gos-charmander-community-day-when-is-it-and-what-to-expect/#15c437195369"><img src="https://pokemongohub.net/wp-content/uploads/2018/04/unnamed.jpg" height="300" width="450" title="Charamander Community Day"></a></center></td>
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/06/15/pokemon-gos-june-larvitar-community-day-the-time-the-move-and-the-bonus/#7c5578955831"><img src="https://cdn.gamerant.com/wp-content/uploads/pokemon-go-larvitar-community-day.jpg.optimal.jpg" height="300" width="450" title="Larvitar Community Day"></a></center</td>
+	</tr>
+	<tr>
+		<th><font color="white"><font size="+3">Squirtle Community Day</th>
+		<th><font color="white"><font size="+3">Eevee Community Day</th>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>July 8th, 2018</center></td>
+		<td><font color="white"><font size="+3"><center>August 11th and 12th, 2018</center</td>
+	</tr>
+	<tr> 
+		<td><font color="white"><font size="+3"><center>Special Move: Hydro Cannon</center></td>
+		<td><font color="white"><font size="+3"><center>Special Move: Last Resort</center</td>
+	</tr>
+	<tr> 
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/07/07/pokemon-gos-squirtle-community-day-time-move-pokemon-and-bonus/#331b5b5c75da"><img src="https://pokemongohub.net/wp-content/uploads/2018/06/Squirtle.jpg" height="250" width="450" title="Squirtle Community Day"></a></center></td>
+		<td><center><a href="https://www.forbes.com/sites/davidthier/2018/08/12/move-bonus-shiny-jolteon-vaporeon-flareon-espeon-umbreon-pokemon-gos-eevee-community-days-what-time-is-it-and-what-you-need-to-know/#6b581925e549"><img src="https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Finsertcoin%2Ffiles%2F2018%2F07%2Fgo-eevee-day.jpg" height="300" width="450" title="Eevee Community Day"></a></center</td>
+	</tr>
+</table>
+<hr>
+	<center><font color="white">Miles Carter/Period 2/My First Website</center>
+
+</html>
